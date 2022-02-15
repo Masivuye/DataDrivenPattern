@@ -1,0 +1,92 @@
+09:34:36,383 DEBUG InternalLoggerFactory:89 - Using Log4J as the default logging framework
+09:34:36,396 DEBUG ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+09:34:36,396 DEBUG ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+09:34:36,406 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6b5176f2
+09:34:36,444 DEBUG PlatformDependent0:460 - -Dio.netty.noUnsafe: false
+09:34:36,444 DEBUG PlatformDependent0:954 - Java version: 11
+09:34:36,448 DEBUG PlatformDependent0:135 - sun.misc.Unsafe.theUnsafe: available
+09:34:36,450 DEBUG PlatformDependent0:159 - sun.misc.Unsafe.copyMemory: available
+09:34:36,451 DEBUG PlatformDependent0:202 - java.nio.Buffer.address: available
+09:34:36,453 DEBUG PlatformDependent0:285 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+09:34:36,454 DEBUG PlatformDependent0:350 - java.nio.Bits.unaligned: available, true
+09:34:36,458 DEBUG PlatformDependent0:417 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @20bd8be5
+09:34:36,459 DEBUG PlatformDependent0:446 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+09:34:36,460 DEBUG PlatformDependent:1116 - sun.misc.Unsafe: available
+09:34:36,478 DEBUG PlatformDependent:1218 - maxDirectMemory: 2116026368 bytes (maybe)
+09:34:36,479 DEBUG PlatformDependent:1237 - -Dio.netty.tmpdir: C:\Users\MASIVU~1.HST\AppData\Local\Temp (java.io.tmpdir)
+09:34:36,481 DEBUG PlatformDependent:1316 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+09:34:36,481 DEBUG PlatformDependent:1076 - Platform: Windows
+09:34:36,482 DEBUG PlatformDependent:178 - -Dio.netty.maxDirectMemory: -1 bytes
+09:34:36,482 DEBUG PlatformDependent:185 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+09:34:36,485 DEBUG CleanerJava9:71 - java.nio.ByteBuffer.cleaner(): available
+09:34:36,485 DEBUG PlatformDependent:205 - -Dio.netty.noPreferDirect: false
+09:34:36,497 DEBUG PlatformDependent:967 - org.jctools-core.MpscChunkedArrayQueue: available
+09:34:36,530 DEBUG InternalThreadLocalMap:86 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+09:34:36,530 DEBUG InternalThreadLocalMap:89 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+09:34:36,996 DEBUG JdkSslContext:97 - Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+09:34:36,996 DEBUG JdkSslContext:98 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+09:34:37,047 DEBUG MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 8
+09:34:37,066 DEBUG NioEventLoop:109 - -Dio.netty.noKeySetOptimization: false
+09:34:37,067 DEBUG NioEventLoop:110 - -Dio.netty.selectorAutoRebuildThreshold: 512
+09:34:37,150 DEBUG PooledByteBufAllocator:155 - -Dio.netty.allocator.numHeapArenas: 8
+09:34:37,150 DEBUG PooledByteBufAllocator:156 - -Dio.netty.allocator.numDirectArenas: 8
+09:34:37,150 DEBUG PooledByteBufAllocator:158 - -Dio.netty.allocator.pageSize: 8192
+09:34:37,150 DEBUG PooledByteBufAllocator:163 - -Dio.netty.allocator.maxOrder: 11
+09:34:37,150 DEBUG PooledByteBufAllocator:167 - -Dio.netty.allocator.chunkSize: 16777216
+09:34:37,150 DEBUG PooledByteBufAllocator:168 - -Dio.netty.allocator.smallCacheSize: 256
+09:34:37,150 DEBUG PooledByteBufAllocator:169 - -Dio.netty.allocator.normalCacheSize: 64
+09:34:37,151 DEBUG PooledByteBufAllocator:170 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+09:34:37,151 DEBUG PooledByteBufAllocator:171 - -Dio.netty.allocator.cacheTrimInterval: 8192
+09:34:37,151 DEBUG PooledByteBufAllocator:172 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+09:34:37,151 DEBUG PooledByteBufAllocator:173 - -Dio.netty.allocator.useCacheForAllThreads: true
+09:34:37,151 DEBUG PooledByteBufAllocator:174 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+09:34:37,176 DEBUG ByteBufUtil:87 - -Dio.netty.allocator.type: pooled
+09:34:37,177 DEBUG ByteBufUtil:96 - -Dio.netty.threadLocalDirectBufferSize: 0
+09:34:37,177 DEBUG ByteBufUtil:99 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+09:34:38,491 DEBUG DefaultChannelId:79 - -Dio.netty.processId: 9920 (auto-detected)
+09:34:38,496 DEBUG NetUtil:135 - -Djava.net.preferIPv4Stack: false
+09:34:38,497 DEBUG NetUtil:136 - -Djava.net.preferIPv6Addresses: false
+09:34:38,957 DEBUG NetUtilInitializations:129 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+09:34:38,960 DEBUG NetUtil:187 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+09:34:39,368 DEBUG DefaultChannelId:101 - -Dio.netty.machineId: 44:03:2c:ff:fe:67:b4:2a (auto-detected)
+09:34:39,463 DEBUG AbstractByteBuf:63 - -Dio.netty.buffer.checkAccessible: true
+09:34:39,464 DEBUG AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+09:34:39,465 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@24ebe31a
+09:34:39,509 DEBUG Recycler:85 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+09:34:39,509 DEBUG Recycler:86 - -Dio.netty.recycler.ratio: 8
+09:34:39,509 DEBUG Recycler:87 - -Dio.netty.recycler.chunkSize: 32
+09:34:39,509 DEBUG Recycler:88 - -Dio.netty.recycler.blocking: false
+09:34:41,508 DEBUG Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+09:34:42,014 DEBUG ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x5b2f3ab9183cecd8
+09:34:42,187 DEBUG devpinoyLogger:85 - Chrome browser launched
+09:34:48,049 DEBUG devpinoyLogger:76 - Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+09:34:48,076 DEBUG devpinoyLogger:12 - Inside testLogin()
+09:34:48,432 DEBUG devpinoyLogger:15 - user name entered: Masifbe
+09:34:48,583 DEBUG devpinoyLogger:18 - Password entered: Masi@fbe3
+09:34:48,697 DEBUG devpinoyLogger:21 - Log in button clicked
+09:34:55,138 DEBUG devpinoyLogger:24 - Hospital Selected
+09:34:55,141 DEBUG devpinoyLogger:25 - Login Successful
+09:34:55,431 DEBUG devpinoyLogger:133 - Browser Closed
+09:34:57,473 DEBUG devpinoyLogger:85 - Chrome browser launched
+09:35:03,956 DEBUG devpinoyLogger:76 - Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+09:35:03,956 DEBUG devpinoyLogger:12 - Inside testLogin()
+09:35:04,393 DEBUG devpinoyLogger:15 - user name entered: Docuser
+09:35:04,498 DEBUG devpinoyLogger:18 - Password entered: password
+09:35:04,582 DEBUG devpinoyLogger:21 - Log in button clicked
+09:35:25,828 DEBUG devpinoyLogger:133 - Browser Closed
+09:35:27,797 DEBUG devpinoyLogger:85 - Chrome browser launched
+09:35:33,090 DEBUG devpinoyLogger:76 - Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+09:35:33,092 DEBUG devpinoyLogger:12 - Inside testLogin()
+09:35:33,481 DEBUG devpinoyLogger:15 - user name entered: Docuser
+09:35:33,578 DEBUG devpinoyLogger:18 - Password entered: testing
+09:35:33,658 DEBUG devpinoyLogger:21 - Log in button clicked
+09:35:34,854 DEBUG devpinoyLogger:24 - Hospital Selected
+09:35:34,854 DEBUG devpinoyLogger:25 - Login Successful
+09:35:35,074 DEBUG devpinoyLogger:133 - Browser Closed
+09:35:37,312 DEBUG devpinoyLogger:85 - Chrome browser launched
+09:35:40,632 DEBUG devpinoyLogger:76 - Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+09:35:40,633 DEBUG devpinoyLogger:12 - Inside testLogin()
+09:35:41,097 DEBUG devpinoyLogger:15 - user name entered: Masifbe
+09:35:41,236 DEBUG devpinoyLogger:18 - Password entered: masi@fbe2
+09:35:41,313 DEBUG devpinoyLogger:21 - Log in button clicked
+09:36:02,657 DEBUG devpinoyLogger:133 - Browser Closed

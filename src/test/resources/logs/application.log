@@ -1,0 +1,32 @@
+15/02/2022 09:34:42 devpinoyLogger Chrome browser launched
+15/02/2022 09:34:48 devpinoyLogger Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+15/02/2022 09:34:48 devpinoyLogger Inside testLogin()
+15/02/2022 09:34:48 devpinoyLogger user name entered: Masifbe
+15/02/2022 09:34:48 devpinoyLogger Password entered: Masi@fbe3
+15/02/2022 09:34:48 devpinoyLogger Log in button clicked
+15/02/2022 09:34:55 devpinoyLogger Hospital Selected
+15/02/2022 09:34:55 devpinoyLogger Login Successful
+15/02/2022 09:34:55 devpinoyLogger Browser Closed
+15/02/2022 09:34:57 devpinoyLogger Chrome browser launched
+15/02/2022 09:35:03 devpinoyLogger Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+15/02/2022 09:35:03 devpinoyLogger Inside testLogin()
+15/02/2022 09:35:04 devpinoyLogger user name entered: Docuser
+15/02/2022 09:35:04 devpinoyLogger Password entered: password
+15/02/2022 09:35:04 devpinoyLogger Log in button clicked
+15/02/2022 09:35:25 devpinoyLogger Browser Closed
+15/02/2022 09:35:27 devpinoyLogger Chrome browser launched
+15/02/2022 09:35:33 devpinoyLogger Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+15/02/2022 09:35:33 devpinoyLogger Inside testLogin()
+15/02/2022 09:35:33 devpinoyLogger user name entered: Docuser
+15/02/2022 09:35:33 devpinoyLogger Password entered: testing
+15/02/2022 09:35:33 devpinoyLogger Log in button clicked
+15/02/2022 09:35:34 devpinoyLogger Hospital Selected
+15/02/2022 09:35:34 devpinoyLogger Login Successful
+15/02/2022 09:35:35 devpinoyLogger Browser Closed
+15/02/2022 09:35:37 devpinoyLogger Chrome browser launched
+15/02/2022 09:35:40 devpinoyLogger Application launched: https://hstfbe.hstoutsystems.com/freebedenquiry/#/
+15/02/2022 09:35:40 devpinoyLogger Inside testLogin()
+15/02/2022 09:35:41 devpinoyLogger user name entered: Masifbe
+15/02/2022 09:35:41 devpinoyLogger Password entered: masi@fbe2
+15/02/2022 09:35:41 devpinoyLogger Log in button clicked
+15/02/2022 09:36:02 devpinoyLogger Browser Closed
